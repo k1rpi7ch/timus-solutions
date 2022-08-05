@@ -1,5 +1,5 @@
 # timus-solutions
-Here are some solved problems from [Timus online judge](https://timus.online/problemset.aspx)
+Here are some solved problems from [Timus Online Judge](https://timus.online/problemset.aspx)
 ---
 ## First part
 - [1014. Product of Digits](https://timus.online/problem.aspx?space=1&num=1613) | [Solution](https://github.com/k1rpi7ch/timus-solutions/blob/main/1014.cpp)
